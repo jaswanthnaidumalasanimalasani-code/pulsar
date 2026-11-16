@@ -1,0 +1,14 @@
+pulsar-client/src/test/java/org/apache/pulsar/client/impl/ListenerExecutorAllocationTest.java
+  h_4cb7290864dc6b 1-327
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "515aa8c07824cb0d9d750fcac2927ed7f5b24d0d",
+  "prompts": {},
+  "humans": {
+    "h_4cb7290864dc6b": {
+      "author": "Jaswanth Malasani <jaswanthnaidumalasani.malasani@boomi.com>"
+    }
+  }
+}
