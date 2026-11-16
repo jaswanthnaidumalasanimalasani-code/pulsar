@@ -1,0 +1,47 @@
+pulsar-client/src/main/java/org/apache/pulsar/client/impl/ConsumerBase.java
+  h_4cb7290864dc6b 23,45,95,169,1447-1448
+pulsar-broker/src/test/java/org/apache/pulsar/client/impl/ZeroQueueSizeTest.java
+  h_4cb7290864dc6b 830
+pulsar-client/src/main/java/org/apache/pulsar/client/impl/ZeroQueueConsumerImpl.java
+  h_4cb7290864dc6b 190
+pulsar-client/src/main/java/org/apache/pulsar/client/impl/ConsumerImpl.java
+  h_4cb7290864dc6b 1473
+pulsar-broker/src/test/java/org/apache/pulsar/client/api/ListenerExecutorAllocationBrokerTest.java
+  s_cd8d59a8577fd6::t_382de47c7fe066 95-97
+  s_cd8d59a8577fd6::t_383dd5d7c6be50 34,36
+  s_cd8d59a8577fd6::t_16bd1f22c255f2 130-138,141-153,156-159
+  s_cd8d59a8577fd6::t_c0b297cd06257a 82-85
+  s_cd8d59a8577fd6::t_eaa030f5beb9a7 59,61
+  s_cd8d59a8577fd6::t_a3759a080e43f7 1-33,35,37-41,52,55,57-58,60,62-65,67,69-81,86-88,90-94,98-123,125-129,139-140,154-155,160-165,169-173
+  s_cd8d59a8577fd6::t_75022b7a846a59 45
+  s_cd8d59a8577fd6::t_0605b9b257eb96 68
+  s_cd8d59a8577fd6::t_bd9eb71685e496 56
+  s_cd8d59a8577fd6::t_9f1056d1eccf72 66
+  s_cd8d59a8577fd6::t_b9e28eed5b737c 166-168
+  s_cd8d59a8577fd6::t_c4a8ed68fbf05b 42-44,46-51,53-54
+  s_cd8d59a8577fd6::t_33074d13a05228 89
+  s_cd8d59a8577fd6::t_cad71650856f47 124
+pulsar-client/src/test/java/org/apache/pulsar/client/impl/ListenerExecutorAllocationTest.java
+  h_4cb7290864dc6b 1-327
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "b4a3990cf3456b5340f58227344d0ea1bbd51304",
+  "prompts": {},
+  "humans": {
+    "h_4cb7290864dc6b": {
+      "author": "Jaswanth Malasani <jaswanthnaidumalasani.malasani@boomi.com>"
+    }
+  },
+  "sessions": {
+    "s_cd8d59a8577fd6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "153914fc-f1e1-433d-80d6-7f5b45150559",
+        "model": "global.openai.gpt-6.1-sol"
+      },
+      "human_author": "Jaswanth Malasani <jaswanthnaidumalasani.malasani@boomi.com>"
+    }
+  }
+}
